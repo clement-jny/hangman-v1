@@ -1,0 +1,13 @@
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\bin\Debug\netcoreapp3.1\hangman-v1.exe
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\bin\Debug\netcoreapp3.1\hangman-v1.deps.json
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\bin\Debug\netcoreapp3.1\hangman-v1.runtimeconfig.json
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\bin\Debug\netcoreapp3.1\hangman-v1.runtimeconfig.dev.json
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\bin\Debug\netcoreapp3.1\hangman-v1.dll
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\bin\Debug\netcoreapp3.1\hangman-v1.pdb
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.csprojAssemblyReference.cache
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.AssemblyInfoInputs.cache
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.AssemblyInfo.cs
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.csproj.CoreCompileInputs.cache
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.dll
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.pdb
+C:\Users\clement\Dropbox\GitHub\hangman-v1\hangman-v1\obj\Debug\netcoreapp3.1\hangman-v1.genruntimeconfig.cache
